@@ -1,4 +1,4 @@
-# Kubernetesubmissions
+# KubernetesSubmissions
 
 ## Exercises
 
